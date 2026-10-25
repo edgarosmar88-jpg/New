@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/HK0UOso.png" group-title="Perú", (001) Willax Peru
+http://190.93.224.42/WILLAX/index.m3u8
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/4iCOFSF.png" group-title="Perú", (002) Latina TV Peru
+http://190.93.224.42/LATINA/index.m3u8
+
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/lu78nyp.png" group-title="Perú", (003) Exitosa Peru
+http://190.93.224.42/EXITOSA/index.m3u8
+
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/194.png" group-title="Perú", (004) America TV Peru
+http://190.93.224.42/AMERICA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/LjBvX9q.png" group-title="Perú", (005) Panamericana Peru
+http://190.93.224.42/PANAMERICANA/index.m3u8
+
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://i.imgur.com/ZNFn81f.png" group-title="Perú", (012) TV Peru Noticias
+http://38.87.224.20:2220/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/XhpXCjZ.png" group-title="Perú", (007) TV Peru
+http://190.93.224.42/TV-PERU/index.m3u8
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/cnYEvrJ.png" group-title="Perú", (008) ATV+ Peru
+http://190.93.224.42/ATV-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/Andina-de-Television-Logo-2025.png" group-title="Perú", (009) ATV Peru
+http://190.93.224.42/ATV/index.m3u8
+
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/L0M7BtO.png" group-title="Perú", (010) Justicia TV Peru
+http://38.87.224.20:2220/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/SW5x2xT.png" group-title="Perú", (011) La Tele Peru
+http://190.93.224.42/LA-TELE/index.m3u8
+
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/198.png" group-title="Perú", (013) Global TV Peru
+http://190.93.224.42/GLOBAL/index.m3u8
+
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/n95FgVu.png" group-title="Perú", (014) USMP TV Peru
+http://187.102.210.46/USMP/index.m3u8
+
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/fM7VV0x.png" group-title="Perú", (015) Canal IPe Peru
+http://187.102.210.46/IPE/index.m3u8
+
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/ZtfrRPA.png" group-title="Perú", (016) Juntos Peru
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/XhdwYP1.png" group-title="Perú", (017) PBO Peru
+http://190.93.224.42/PBO/index.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/ttBAsdW.png" group-title="Perú", (006) Canal N
+http://45.186.254.75:8000/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://i.imgur.com/PixypbD.png" group-title="Perú", (018) Movistar Plus
+http://45.186.254.75:8000/play/a0et/index.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/MzmkFqq.png" group-title="Perú", (019) Ovacion Peru
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/nr2FG0N.png" group-title="Perú", (021) La Tremenda Peru
+http://187.102.210.46/KARIBENA/index.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/RoQtitE.png" group-title="Perú", (020) Karibeña Peru
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="(025) Trivu Peru" tvg-logo="https://i.imgur.com/4ETf1ji.png" group-title="Perú", (025) Trivu Peru
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(024) TVLibertad Peru" tvg-logo="https://i.imgur.com/9JtekIB.png" group-title="Perú", (024) TVLibertad Peru
+https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(022) RPP Peru" tvg-logo="https://i.imgur.com/HSt2kac.png" group-title="Perú", (022) RPP Peru
+http://190.93.224.42/RPP/index.m3u8
+
+#EXTINF:-1 tvg-id="(023) Nativa TV Peru" tvg-logo="https://i.imgur.com/YXLWnst.png" group-title="Perú", (023) Nativa TV Peru
+http://187.102.210.46/NATIVATV/index.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega.png" group-title="Chile", CL | Mega HD
+http://181.78.88.113:9800/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-id="584" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/mega-2.png" group-title="Chile", CL | Mega 2
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/chilevision.png" group-title="Chile", CL | Chilevision HD
+http://181.78.88.113:9800/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/canal-13.png" group-title="Chile", CL | Canal 13 HD
+http://181.78.88.113:9800/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tvn.png" group-title="Chile", CL | TVN HD
+http://45.162.193.35:80/TVN/index.m3u8
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tv-plus.png" group-title="Chile", CL | TV+ HD
+http://181.78.88.113:9800/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="Chile", CL | La Red HD
+http://181.78.88.113:9800/play/a09n/index.m3u8
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/24-horas.png" group-title="Chile", CL | 24 Horas HD
+http://181.78.88.113:9800/play/a09o/index.m3u8
+
+#EXTINF:-1 tvg-id="549" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/t13.png" group-title="Chile", CL | T13 En Vivo HD
+http://181.78.88.113:9800/play/a0aj/index.m3u8
+
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/ntv.png" group-title="Chile", CL | NTV HD
+http://181.78.88.113:9800/play/a0ak/index.m3u8
+
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica.png" group-title="Argentina", ARG | America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telefe.png" group-title="Argentina", ARG | Telefe
+http://45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_trece_1.png" group-title="Argentina", ARG | El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_103.png" group-title="Argentina", ARG | Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/2/a24.png" group-title="Argentina", ARG | A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/q/u/quiero_m_sica.png" group-title="Argentina", ARG | Quiero Musica TV
+http://138.59.227.20:8000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/KIzMIGg.png" group-title="Argentina", ARG | Paka Paka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/n/tn_hd.png" group-title="Argentina", ARG | TN (Todo Noticias)
+http://138.59.227.20:8000/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="ARG | El Nueve" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", ARG | El Nueve
+http://138.59.227.20:8000/play/a08k/index.m3u8
+
+#EXTINF:-1 tvg-id="la-tele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay", PY | La Tele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-id="paraguay-tv.py" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="Paraguay", PY | Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-id="telefuturo.py" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay", PY | Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="unicanal.py" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Paraguay", PY | Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="Paraguay", PY | C9N
+https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
+
+#EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="Paraguay", PY | SNT
+https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8
+
+#EXTINF:-1 tvg-id="CO | Canal 1" tvg-logo="http://wispcinema2.sytes.net:25461/images/18f64422b27107c63294ee443b21f193.png" group-title="Colombia", CO | Canal 1
+http://wispcinema.sytes.net:25461/obedchile/18112022/6767.m3u8
+
+#EXTINF:-1 tvg-id="CO | Caracol" tvg-logo="http://wispcinema2.sytes.net:25461/images/e717977afd55c28533ac62205945f728.png" group-title="Colombia", CO | Caracol
+http://wispcinema.sytes.net:25461/obedchile/18112022/1476.m3u8
+
+#EXTINF:-1 tvg-id="CO | Canal RCN" tvg-logo="http://wispcinema2.sytes.net:25461/images/8944f9f3e66862c345a822e5a525597e.png" group-title="Colombia", CO | Canal RCN
+http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
+
+#EXTINF:-1 tvg-id="CO | City TV" tvg-logo="https://i.imgur.com/twwVlE3.png" group-title="Colombia", CO | City TV
+http://wispcinema.sytes.net:25461/obedchile/18112022/10237.m3u8
+
+#EXTINF:-1 tvg-id="CO | Telemedellin" tvg-logo="https://i.imgur.com/Yj4FNVb.png" group-title="Colombia", CO | Telemedellin
+http://wispcinema.sytes.net:25461/obedchile/18112022/7991.m3u8
+
+#EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-logo="https://i.imgur.com/QSAN8Ks.png" group-title="Colombia", CO | Teleantioquia
+http://wispcinema.sytes.net:25461/obedchile/18112022/1478.m3u8
+
+#EXTINF:-1 tvg-id="CO | Telepacifico" tvg-logo="http://wispcinema2.sytes.net:25461/images/f36f2d4de2f05014cb9781ae5e803713.png" group-title="Colombia", CO | Telepacifico
+http://wispcinema.sytes.net:25461/obedchile/18112022/9592.m3u8
+
+#EXTINF:-1 tvg-id="CO | Telecaribe" tvg-logo="http://wispcinema2.sytes.net:25461/images/b5f63dedb841639e424f71ae4c01c2f5.png" group-title="Colombia", CO | Telecaribe
+http://wispcinema.sytes.net:25461/obedchile/18112022/10078.m3u8
+
+#EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-logo="http://wispcinema2.sytes.net:25461/images/45bc1543688ad65da10ae1d972e46043.png" group-title="Colombia", CO | Señal Colombia
+http://wispcinema.sytes.net:25461/obedchile/18112022/7507.m3u8
+
+#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador", EC | Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+
+#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador", EC | Ecuavisa
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador", EC | RTS
+http://157.100.248.242:8080/RTSHD/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador", EC | TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="Ecuador", EC | Teleamazonas
+http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Bolivia", BO | Bolivia TV
+http://190.181.61.93:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="Bolivia", BO | Bolivision
+http://190.181.61.93:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | PAT" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="Bolivia", BO | PAT
+http://190.181.61.93:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | Red Uno" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="Bolivia", BO | Red Uno
+http://190.181.61.93:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | RTP" tvg-logo="https://i.imgur.com/1Clkuyv.png" group-title="Bolivia", BO | RTP
+http://190.181.61.93:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="Bolivia", BO | Unitel
+http://190.181.61.93:8000/play/1909/index.m3u8
