@@ -208,3 +208,20 @@ http://190.181.61.93:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="Bolivia", BO | Unitel
 http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Atresplayer Int.", A3P | Hola TV
+http://38.190.100.202:8000/play/a0al/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/mJHyEo7.png" group-title="Universal+ Latinoamérica", U+ | CINEMA
+http://38.190.100.202:8000/play/a04z/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/jbDqkKs.png" group-title="Universal+ Latinoamérica", U+ | COMEDY
+http://38.190.100.202:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/LZcA7hU.png" group-title="Universal+ Latinoamérica", U+ | CRIME
+http://38.190.100.202:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/kgD2QDH.png" group-title="Universal+ Latinoamérica", U+ | PREMIERE
+http://38.190.100.202:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/9rM1dOR.png" group-title="Universal+ Latinoamérica", U+ | REALITY
+http://38.190.100.202:8000/play/a04r/index.m3u8
