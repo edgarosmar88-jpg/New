@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 2" tvg-logo="https://i.postimg.cc/d3hLvzJH/canal2.jpg" group-title="El Salvador",SV | Canal 2
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/130757
+#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 4" tvg-logo="https://i.postimg.cc/8cxsCt51/canal4.jpg" group-title="El Salvador",SV | Canal 4
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/130758
+#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 21" tvg-logo="https://i.postimg.cc/RFVWpWyz/canal21.jpg" group-title="El Salvador",SV | Canal 21
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/130761
+#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 4" tvg-logo="https://i.postimg.cc/6qpdWkr9/canal4.jpg" group-title="Costa Rica",CR | Canal 4
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68297
+#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 6" tvg-logo="https://i.postimg.cc/66MrjQKT/canal6.jpg" group-title="Costa Rica",CR | Canal 6
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68298
+#EXTINF:-1 tvg-id="" tvg-name="CR | TD+" tvg-logo="https://i.postimg.cc/MH31v951/tdmas.jpg" group-title="Costa Rica",CR | TD+
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68303
+#EXTINF:-1 tvg-id="" tvg-name="CR | Telered" tvg-logo="https://i.postimg.cc/G2QF1Ls7/telered.jpg" group-title="Costa Rica",CR | Telered
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68306
+#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica" tvg-logo="http://sunset-app.com/picons/sudamerica/teletica7.jpg" group-title="Costa Rica",CR | Teletica
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68310
+#EXTINF:-1 tvg-id="" tvg-name="CR | Teletica HD" tvg-logo="http://sunset-app.com/picons/sudamerica/teletica7.jpg" group-title="Costa Rica",CR | Teletica HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68295
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports" tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Costa Rica",CR | Tigo Sports
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/181731
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD" tvg-logo="http://sunset-app.com/picons/Deportes/tigosports.jpg" group-title="Costa Rica",CR | Tigo Sports HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68299
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV" tvg-logo="https://i.postimg.cc/Z5gj7bjy/ecuadortv.jpg" group-title="Ecuador",EC | Ecuador TV
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67615
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa" tvg-logo="https://i.postimg.cc/439PjDF2/ecuavisa.jpg" group-title="Ecuador",EC | Ecuavisa
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67613
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa Internacional" tvg-logo="https://i.postimg.cc/439PjDF2/ecuavisa.jpg" group-title="Ecuador",EC | Ecuavisa Internacional
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67622
+#EXTINF:-1 tvg-id="" tvg-name="EC | Gamavision" tvg-logo="https://i.postimg.cc/DZ36hx9v/gamavision.jpg" group-title="Ecuador",EC | Gamavision
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67612
+#EXTINF:-1 tvg-id="" tvg-name="EC | GolTV" tvg-logo="https://i.postimg.cc/Jn3qzb8b/goltv.jpg" group-title="Ecuador",EC | GolTV
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67611
+#EXTINF:-1 tvg-id="" tvg-name="EC | TC Televisi贸n" tvg-logo="https://i.postimg.cc/xjR5rytQ/tctelevision.jpg" group-title="Ecuador",EC | TC Televisi贸n
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67624
+#EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas" tvg-logo="https://i.postimg.cc/CLxNwBQq/teleamazonas.jpg" group-title="Ecuador",EC | Teleamazonas
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67610
+#EXTINF:-1 tvg-id="" tvg-name="EC | RTS" tvg-logo="https://i.postimg.cc/5ynSwb6y/rts.jpg" group-title="Ecuador",EC | RTS
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67616
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC" tvg-logo="https://i.postimg.cc/15vvFcqB/tvc.jpg" group-title="Ecuador",EC | TVC
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67620
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV Chile" tvg-logo="https://i.postimg.cc/DfCxtXSG/tvchile.jpg" group-title="Chile",CL | TV Chile
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67557
+#EXTINF:-1 tvg-id="" tvg-name="CL | La Red" tvg-logo="https://i.postimg.cc/SN3DKb7N/lared.jpg" group-title="Chile",CL | La Red
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67560
+#EXTINF:-1 tvg-id="" tvg-name="CL | Rec TV" tvg-logo="https://i.postimg.cc/8PjZDzv0/rectv.jpg" group-title="Chile",CL | Rec TV
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67561
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico" tvg-logo="https://i.postimg.cc/Qd7S9Y0g/cdo.jpg" group-title="Chile",CL | CDO Basico
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67562
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="https://i.postimg.cc/7LMVXGvf/teletrak.jpg" group-title="Chile",CL | Teletrak
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67564
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="https://i.postimg.cc/Qd7S9Y0g/cdo.jpg" group-title="Chile",CL | CDO Premium
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67567
+#EXTINF:-1 tvg-id="" tvg-name="CL | Mega" tvg-logo="https://i.postimg.cc/CKV7jCQ3/mega.jpg" group-title="Chile",CL | Mega
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67568
+#EXTINF:-1 tvg-id="" tvg-name="CL | Canal 13" tvg-logo="https://i.postimg.cc/QxDhFv8s/canal13.jpg" group-title="Chile",CL | Canal 13
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67572
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV+" tvg-logo="https://i.postimg.cc/wvYhK6pn/tevemas.jpg" group-title="Chile",CL | TV+
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67573
