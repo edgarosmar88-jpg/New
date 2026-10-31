@@ -84,3 +84,21 @@ http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303712
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA Macho HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="Cine",ULTRA Macho HD
 http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303727
 #EXTINF:-1 tvg-id="" tvg-name="ULTRA Mex HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMex_NLogo.png" group-title="Cine",ULTRA Mex HD
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sport " tvg-logo="https://vidabytes.com/wp-content/uploads/2021/05/ver-eurosport-online-12.jpg" group-title="Espa帽a",Euro Sport 
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/314680
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sport 2" tvg-logo="https://vidabytes.com/wp-content/uploads/2021/05/ver-eurosport-online-12.jpg" group-title="Espa帽a",Euro Sport 2
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/314679
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja2" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/SpongeBob-Logo.jpg" group-title="Canales 24/7",24/7 Bob Esponja2
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/391825
+#EXTINF:-1 tvg-id="" tvg-name="MeTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/200px-MeTV_Logo.svg.png" group-title="Entertainment",MeTv
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/392379
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="MX | History Channel" tvg-logo="http://sunset-app.com/picons/Culture/history.jpg" group-title="Cultura",MX | History Channel
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/393587
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Hits" tvg-logo="http://sunset-app.com/picons/musica/mtvtv.jpg" group-title="Musica",MX | MTV Hits
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/393607
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX | Nickelodeon" tvg-logo="http://sunset-app.com/picons/kids/nickelodeon.jpg" group-title="Infantiles",MX | Nickelodeon
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/393903
+#EXTINF:-1 tvg-id="" tvg-name="Space City Home Net" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/10/space-city-home-network.jpg" group-title="Sports",Space City Home Net
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/394658
+#EXTINF:-1 tvg-id="" tvg-name="HON| TVC Deportes" tvg-logo="https://i1.sndcdn.com/avatars-000190433008-gct8gy-t240x240.jpg" group-title="Honduras",HON| TVC Deportes
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/397000
