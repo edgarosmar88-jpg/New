@@ -69,3 +69,18 @@ http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68322
 http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/67515
 #EXTINF:-1 tvg-id="" tvg-name="PR | Punto 2" tvg-logo="http://sunset-app.com/picons/puertorico/punto2.jpg" group-title="Puerto Rico",PR | Punto 2
 http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/68335
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="MX | Warner" tvg-logo="http://sunset-app.com/picons/cine/warner.jpg" group-title="Cine",MX | Warner
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/32510
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="TNT Mex" tvg-logo="http://sunset-app.com/picons/cine/tnt.jpg" group-title="Cine",TNT Mex
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/322828
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Cine HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCine_NLogo.png" group-title="Cine",ULTRA Cine HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303744
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Clasico HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasico_NLogo.png" group-title="Cine",ULTRA Clasico HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303743
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Familia HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s80149_h15_aa.png" group-title="Cine",ULTRA Familia HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303706
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Kidz" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="Cine",ULTRA Kidz
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303712
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Macho HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png" group-title="Cine",ULTRA Macho HD
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/303727
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA Mex HD" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMex_NLogo.png" group-title="Cine",ULTRA Mex HD
